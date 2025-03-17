@@ -25,7 +25,7 @@ about:
   license_file:
     - LICENSE
     - license-files/
-  summary: A golang formatter that fixes long lines
+  summary: Access the system clipboard from anywhere using the ANSI OSC52 sequence
   home: https://github.com/theimpostor/osc
   dev_url: https://github.com/theimpostor/osc
 
