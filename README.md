@@ -7,7 +7,7 @@ Home: https://github.com/theimpostor/osc
 
 Package license: MIT
 
-Summary: A golang formatter that fixes long lines
+Summary: Access the system clipboard from anywhere using the ANSI OSC52 sequence
 
 Development: https://github.com/theimpostor/osc
 
